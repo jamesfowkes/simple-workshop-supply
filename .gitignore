@@ -1,0 +1,5 @@
+*.gbr
+*-cache.lib
+*.bak
+*.drl
+*.kicad_pcb-bak
